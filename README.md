@@ -1,4 +1,4 @@
-<h3 align="center" >🚀Welocome to My Profile:</h3>
+<h1 align="center" >🚀Welocome to My Profile:</h1>
 <h3 align="center" >CSE Student at ITMxLU🚀</h3>
 
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="coding img" align="right" height="250" />
