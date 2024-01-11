@@ -1,4 +1,4 @@
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Raheel+Kotwal🤗;+Welcome+to+my+Profile!💻" />
+Welcome to my Profile:
 <h3 align="center" >CSE Student at ITMxLU🚀</h3>
 
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="coding img" align="right" height="250" />
