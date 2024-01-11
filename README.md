@@ -8,7 +8,7 @@
 - 📚 Started My Journy With **ITM Skills University**
 - 📫 How to reach me **2023.raheelk@isu.ac.in**
 - Open for learning oportunities
-- A decent chess player as well.
+- 🤖 A decent chess player as well.
 - A part-time poet as well.
 - If you like my work, let's grab a cup of coffee.
   
