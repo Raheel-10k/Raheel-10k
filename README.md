@@ -8,11 +8,14 @@
 - 📚 Started My Journy With **ITM Skills University**
 - 📫 How to reach me **2023.raheelk@isu.ac.in**
 - Open for learning oportunities
+- A part-time poet as well.
+- If you like my work, let's grab a cup of coffee.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/raheel-kotwal-02b594291/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithendra-bathala-832a26150" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheel-k" height="30" width="40" />
   </a>
 </p>
 
