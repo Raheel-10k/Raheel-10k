@@ -8,6 +8,7 @@
 - 📚 Started My Journy With **ITM Skills University**
 - 📫 How to reach me **2023.raheelk@isu.ac.in**
 - Open for learning oportunities
+- A decent chess player as well.
 - A part-time poet as well.
 - If you like my work, let's grab a cup of coffee.
   
@@ -17,9 +18,13 @@
   <a href="https://www.linkedin.com/in/raheel-kotwal-02b594291/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheel-k" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/raheel.solanki/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raheel-k" height="30" width="40" />
+  </a>
+
 </p>
 
-<h3 align="center">Thanks for visiting my profile ❤️🚀</h3>
+<h3 align="center">...Thanks for visiting my profile...❤️</h3>
 
 
 
